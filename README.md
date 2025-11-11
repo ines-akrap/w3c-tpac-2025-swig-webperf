@@ -3,7 +3,11 @@ Slides to guide the 2025 TPAC joint meeting — [Sustainable Web IG, Web Perform
 13 November 2025, 13:45–15:00 Japan Standard Time
 
 ## Description  
+This joint session brings together the Sustainable Web Interest Group and the Web Performance Working Group to explore shared opportunities between performance measurement and sustainability goals.
 
+Both groups focus on making the web more efficient, reliable, and responsible — from resource use and user experience to environmental impact. The discussion will examine where existing performance metrics already reflect sustainability outcomes, where new measurement approaches might be needed, and how collaboration across groups can support evidence-based guidance and tooling.
+
+The session aims to identify practical next steps for connecting sustainability principles with measurable web data, helping ensure that technical performance and environmental performance evolve together in the open web ecosystem.
 
 ## Presentation for the breakout
 [Overview.html](https://ines-akrap.github.io/w3c-tpac-2025-swig-webperf/Templates/Overview.html)

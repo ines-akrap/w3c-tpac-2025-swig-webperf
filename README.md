@@ -6,7 +6,7 @@ Slides to guide the 2025 TPAC joint meeting — [Sustainable Web IG, Web Perform
 
 
 ## Presentation for the breakout
-[Overview.html]()
+[Overview.html](https://ines-akrap.github.io/w3c-tpac-2025-swig-webperf/Templates/Overview.html)
 
 The presentation starts with an overview. To start the presentation, press play (at the bottom).
 
